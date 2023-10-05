@@ -1,6 +1,6 @@
-# HPTI-SEP-2023
+## HPTI-SEP-2023
 
-### httpx
+# httpx
 
 httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. It is designed to maintain result reliability with an increased number of threads.
 
@@ -14,9 +14,9 @@ below is github's httpx link:  https://github.com/projectdiscovery/httpx
 - Supports hosts, URLs and CIDR as input.
 - Handles edge cases doing retries, backoffs etc for handling WAFs.
 
-### RustScan
+# RustScan
 
-# Why Rustscan?
+## Why Rustscan?
 RustScan is a modern take on the port scanner. Sleek & fast. All while providing extensive extendability to you.
 
 Not to mention RustScan uses Adaptive Learning to improve itself over time, making it the best port scanner for you.
