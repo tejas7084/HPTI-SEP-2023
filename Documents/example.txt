@@ -3,13 +3,16 @@ httpx is a fast and multi-purpose HTTP toolkit that allows running multiple prob
 
 below is github's httpx link: https://github.com/projectdiscovery/httpx
 
-some features:
+### some features:
 Simple and modular code base making it easy to contribute.
 Fast And fully configurable flags to probe multiple elements.
 Supports multiple HTTP based probings.
 Smart auto fallback from https to http as default.
 Supports hosts, URLs and CIDR as input.
 Handles edge cases doing retries, backoffs etc for handling WAFs.
+
+
+####
 RustScan
 Why Rustscan?
 RustScan is a modern take on the port scanner. Sleek & fast. All while providing extensive extendability to you.
